@@ -3,17 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package np.com.saileshkasaju.designpatterns.strategypattern;
+package np.com.saileshkasaju.designpatterns.strategypattern.DuckSimulator;
 
 /**
  *
  * @author Edge
  */
-public class FlyWithWings implements FlyBehaviour {
-
-    @Override
-    public void fly() {
-        System.out.println("I'm flying!");
-    }
-    
+public interface QuackBehaviour {
+    public void quack();
 }

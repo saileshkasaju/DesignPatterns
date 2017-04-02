@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/Duck.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/MiniDuckSimulator.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/FlyRocketPowered.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/FlyWithWings.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/FlyNoWay.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/MuteQuack.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/build.xml</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/ModelDuck.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/FlyBehaviour.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/MallardDuck.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/Squeak.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/Quack.java</file>
+            <file>file:/C:/Users/Edge/Documents/NetBeansProjects/DesignPatterns/src/np/com/saileshkasaju/designpatterns/strategypattern/QuackBehaviour.java</file>
+        </group>
+    </open-files>
+</project-private>

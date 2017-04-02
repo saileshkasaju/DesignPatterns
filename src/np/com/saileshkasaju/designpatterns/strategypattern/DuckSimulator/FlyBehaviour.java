@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package np.com.saileshkasaju.designpatterns.strategypattern;
+package np.com.saileshkasaju.designpatterns.strategypattern.DuckSimulator;
 
 /**
  *
  * @author Edge
  */
-public interface QuackBehaviour {
-    public void quack();
+public interface FlyBehaviour {
+    public void fly();
 }

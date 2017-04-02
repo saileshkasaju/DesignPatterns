@@ -3,20 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package np.com.saileshkasaju.designpatterns.strategypattern;
+package np.com.saileshkasaju.designpatterns.strategypattern.DuckSimulator;
 
 /**
  *
  * @author Edge
  */
-public class MallardDuck extends Duck {
-    public MallardDuck() {
+public class ModelDuck extends Duck {
+
+    public ModelDuck() {
+        flyBehaviour = new FlyNoWay();
         quackBehaviour = new Quack();
-        flyBehaviour = new FlyWithWings();
     }
+
     
     @Override
     public void display() {
-        System.out.println("I'm a real Mallard duck");
+        System.out.println("I'm a model duck");
     }
+    
 }

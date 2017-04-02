@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package np.com.saileshkasaju.designpatterns.strategypattern;
+package np.com.saileshkasaju.designpatterns.strategypattern.DuckSimulator;
 
 /**
  *
  * @author Edge
  */
-public class Squeak implements QuackBehaviour {
+public class MuteQuack implements QuackBehaviour {
 
     @Override
     public void quack() {
-        System.out.println("Squeak");
-    }    
+        System.out.println("<< Silence >>");
+    }   
 }
